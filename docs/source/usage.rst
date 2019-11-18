@@ -1,7 +1,13 @@
-Usage
-=====
+User Guide
+==========
 
-Here is sample code to show how to use.::
+Get the codebase
+----------------
+Clone the git reposotory at `COC Gitlab Repo <https://gitlab.sas.com/coc/code.git>`_.
+
+Usage
+-----
+Below is sample code to demonstrate the usage.::
 
    from coc.modules.pdfFile import get_textbox_coords, get_page_dims
    from tabula import read_pdf
