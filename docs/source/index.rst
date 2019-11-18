@@ -4,12 +4,9 @@ PDF Table Extractor
    :target: https://techtalk.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
-Another simple header
-===========================
-
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: Table of Contents:
 
    intro
    usage
