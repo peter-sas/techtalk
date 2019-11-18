@@ -8,7 +8,7 @@ Another simple header
 ===========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    intro
