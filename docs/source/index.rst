@@ -8,6 +8,7 @@ Another simple header
    :maxdepth: 2
    :caption: Contents:
 
+   intro
    usage
    help
 
