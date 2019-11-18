@@ -24,7 +24,7 @@ Object coordinates
    * The origin (0, 0) point is located in the bottom left corner.
    * Unit: point (1 inch = 72 points).
 
-   .. image:: images/pdf_coords.PNG
+   .. image:: images/pdf_coords.png
       :height: 237
       :width: 420
 
@@ -33,7 +33,7 @@ Locate an object by coordinates
    1. Use coordinates (left, bottom, right, top).
    2. `pdfquery <https://github.com/jcushman/pdfquery>`_ follows this rule.
 
-   .. image:: images/loc_object.PNG
+   .. image:: images/loc_object.png
       :height: 331
       :width: 251
 
@@ -57,7 +57,7 @@ Tabula-py
       * top = page height – coordinate top
       * bottom = page height – coordinate bottom
 
-      .. image:: images/tabula_coords.PNG
+      .. image:: images/tabula_coords.png
          :height: 384
          :width: 674
 
