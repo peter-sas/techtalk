@@ -90,6 +90,10 @@ Comparison
 * Advantage
    * Accurate results as along as the table area is specified properly
    * Possible to automate
+   
+* Disadvantage
+   * Longer run time - 30 secs vs 30 mins (280 files)
+   * Requires Java JRE
 
 References
 ----------
