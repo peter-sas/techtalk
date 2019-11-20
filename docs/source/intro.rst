@@ -85,6 +85,12 @@ The PDF table extractor module is built on the following Python libraries.
    * `pandas <https://pandas.pydata.org/pandas-docs/stable/>`_
       PDF table is returned as a Pandas DataFrame.
 
+Comparison
+----------
+* Advantage
+   * Accurate results as along as the table area is specified properly
+   * Possible to automate
+
 References
 ----------
 
